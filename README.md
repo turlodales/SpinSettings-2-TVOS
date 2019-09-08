@@ -55,20 +55,20 @@ My own road map
 
 
 # Supported Devices TVOS 9.0 to iOS 9.3.5
-|Apple TV 4|
+|TVOS |Apple TV 4|
 |----------|----------|
-|iOS 9.0   |NO |
-|iOS 9.0.1 |NO |
-|iOS 9.0.2 |NO |
-|iOS 9.1   |NO |
-|iOS 9.2   |NO |
-|iOS 9.2.1 |NO |
-|iOS 9.3   |NO |
-|iOS 9.3.1 |NO |
-|iOS 9.3.2 |NO |
-|iOS 9.3.3 |NO |
-|iOS 9.3.4 |NO |
-|iOS 9.3.5 |NO |
+|TVOS 9.0   |NO |
+|TVOS 9.0.1 |NO |
+|TVOS 9.0.2 |NO |
+|TVOS 9.1   |NO |
+|TVOS 9.2   |NO |
+|TVOS 9.2.1 |NO |
+|TVOS 9.3   |NO |
+|TVOS 9.3.1 |NO |
+|TVOS 9.3.2 |NO |
+|TVOS 9.3.3 |NO |
+|TVOS 9.3.4 |NO |
+|TVOS 9.3.5 |NO |
 
 # Supported Devices TVOS 10.0 to iOS 10.3.3
 |Apple TV 4|
