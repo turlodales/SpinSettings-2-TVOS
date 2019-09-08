@@ -61,69 +61,30 @@ My own road map
 
 
 # Supported Devices TVOS 10.0 to iOS 10.3.3
-|Apple TV 4|
-|----------|----------|
-|iOS 10.0    |NO|
-|iOS 10.0.1  |NO|
-|iOS 10.0.2  |NO|
-|iOS 10.0.3  |NO|
-|iOS 10.1    |NO|
-|iOS 10.1.1  |NO|
-|iOS 10.2    |NO|
-|iOS 10.2.1  |NO|
-|iOS 10.3    |NO|
-|iOS 10.3.1  |NO|
-|iOS 10.3.2  |NO|
-|iOS 10.3.3  |NO|
-
-
 |Device|iOS 10.0|iOS 10.0.1|iOS 10.0.2|iOS 10.0.3|iOS 10.1|iOS 10.1.1|iOS 10.2|iOS 10.2.1|iOS 10.3|iOS 10.3.1|iOS 10.3.2|iOS 10.3.3  |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |Apple TV 4|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
 
-
 # Supported Devices iOS 11.0 to iOS 11.4.1 
-|Apple TV 4|Apple TV 4K|
-|----------|----------|----------|
-|iOS 11.0     |NO|NO|
-|iOS 11.0.1   |NO|NO|
-|iOS 11.0.2   |NO|NO|
-|iOS 11.0.3   |NO|NO|
-|iOS 11.1     |NO|NO|
-|iOS 11.1.1   |NO|NO|
-|iOS 11.1.2   |NO|NO|
-|iOS 11.2     |NO|NO|
-|iOS 11.2.1   |NO|NO|
-|iOS 11.2.2   |NO|NO|
-|iOS 11.2.5   |NO|NO|
-|iOS 11.3     |NO|NO|
-|iOS 11.3.1   |NO|NO|
-|iOS 11.4     |NO|NO|
-|iOS 11.4.1   |NO|NO|
+|Device|iOS 11.0|iOS 11.0.1|iOS 11.0.2|iOS 11.0.3|iOS 11.1|iOS 11.1.1|iOS 11.1.2|iOS 11.2|iOS 11.2.1|iOS 11.2.2|iOS 11.2.5|iOS 11.3|iOS 11.3.1|iOS 11.4|iOS 11.4.1|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Apple TV 4|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|Apple TV 4K|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
 
 # Supported Devices iOS 12.0 to iOS 12.4.1 
-|Apple TV 4|Apple TV  4K|
-|----------|----------|----------|
-|iOS 12.0     |NO |NO|
-|iOS 12.0.1   |NO |NO|
-|iOS 12.1     |NO |NO|
-|iOS 12.1.1   |NO |NO|
-|iOS 12.1.2   |NO |NO|
-|iOS 12.1.3   |NO |NO|
-|iOS 12.1.4   |NO |NO|
-|iOS 12.2     |NO |NO|
-|iOS 12.3     |NO |NO|
-|iOS 12.4     |NO |NO|
-|iOS 12.4.1   |NO |NO|
-
+|Device|TVOS 12.0|TVOS 12.0.1|TVOS 12.1|TVOS 12.1.1|TVOS 12.1.2|TVOS 12.1.3|TVOS 12.1.4|TVOS 12.2|TVOS 12.3|TVOS 12.4|TVOS 12.4.1|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Apple TV 4|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|Apple TV 4K|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
 # Supported Devices iOS 13.0 to iOS 13.1 
-|Apple TV 4|Apple TV  4K|
+|Device|TVOS 13.0|TVOS 13.1|
 |----------|----------|----------|
-|iOS 13.0     |NO |NO|
-|iOS 13.1     |NO |NO|
+|Apple TV 4|NO|NO|
+|Apple TV 4K|NO|NO|
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 
