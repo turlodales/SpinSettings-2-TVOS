@@ -22,6 +22,7 @@ My own plan is to make it work from see below
 - [ ] iOS 11
 - [ ] iOS 12
 - [ ] iOS 13
+- [ ] iOS 14
 
 my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
 
@@ -84,12 +85,17 @@ My own road map
 |Apple TV 4|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 |Apple TV 4K|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
-# Supported Devices iOS 13.0 to iOS 13.1 
-|Device|TVOS 13.0|TVOS 13.1|
-|----------|----------|----------|
-|Apple TV 4|NO|NO|
-|Apple TV 4K|NO|NO|
+# Supported Devices iOS 13.0 to iOS 13.4.8 
+|Device|TVOS 13.0|TVOS 13.2|TVOS 13.3|TVOS 13.3.1|TVOS 13.4|TVOS 13.4.5|TVOS 13.4.6|TVOS 13.4.8|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|Apple TV 4  |NO|NO|NO|NO|NO|NO|NO|NO|
+|Apple TV 4K |NO|NO|NO|NO|NO|NO|NO|NO|
 
+# Supported Devices iOS 14.0 to iOS 14.0 
+|Device|TVOS 13.0|
+|----------|----------|
+|Apple TV 4  |NO|NO|
+|Apple TV 4K |NO|NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 
